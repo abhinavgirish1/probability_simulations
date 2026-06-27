@@ -14,3 +14,10 @@ Law of Large Numbers.
 
 This experiment is intended to build intuition for probabilistic
 convergence using simple Monte Carlo methods.
+
+## 2. PRV26 Programming Assignment
+
+Coursework from PRV (Probability and Random Variables). Five notebooks covering biased coin simulation, rejection sampling, Box-Muller transforms, and multivariate normal sampling.
+
+See `prv26/` for the notebooks and setup instructions.
+
